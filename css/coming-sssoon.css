@@ -656,7 +656,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
         background-color: #434343;
     }
     .main {
-        background-image: url("images/CC7A71B6-511A-4462-BDFB-AEDD58C35A39.jpeg");
+        background-image: url("/images/CC7A71B6-511A-4462-BDFB-AEDD58C35A39.jpeg");
     }
 }
 .modal-backdrop.in {
@@ -667,7 +667,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 .main{
     background-position: center center;
     background-size: cover;
-    background-image: url("images/default.jpg");
+    background-image: url("/images/default.jpg");
     height: auto;
     left: 0;
     min-height: 100%;
