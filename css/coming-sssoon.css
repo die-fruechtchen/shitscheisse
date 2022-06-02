@@ -667,7 +667,8 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 .main{
     background-position: center center;
     background-size: cover;
-    background-image: url("/images/default.jpg");
+    /* background-image: url("/images/default.jpg"); */
+    background-image: url("/images/CC7A71B6-511A-4462-BDFB-AEDD58C35A39.jpeg");
     height: auto;
     left: 0;
     min-height: 100%;
